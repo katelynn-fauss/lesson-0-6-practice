@@ -19,4 +19,5 @@ You need Python 3.10 or higher. From the terminal, in this folder:
 ## Files
 
 - `practice_notbook.py` - the main script
+- `practice_notebook.ipynb` - the jupyter script
 - `README.md` - this file
